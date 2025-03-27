@@ -1,5 +1,9 @@
 package com.pinfall.exam2;
 
+/**
+* Write a class to implement a stack using arrays with methods for push, pop, and peek.
+*/
+
 public class ArrayStack {
     private int[] stack;
     private int top;

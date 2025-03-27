@@ -1,5 +1,9 @@
 package com.pinfall;
 
+/**
+* Write a class to implement a binary search tree (BST) with methods for insertion, search, and in-order traversal.
+*/
+
 // 定义二叉搜索树的节点类
 class TreeNode {
     int val;
